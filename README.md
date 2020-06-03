@@ -10,3 +10,5 @@ Export:
 Open Azure Monitor Workbooks
 
 In “advanced edit” mode (press the </> icon) - Choose "Gallery Template" for JSON file or ARM, then press the blue arrow (to the left of the [Apply] button) to download the file
+
+Note: ARM Template Deployment Coming Soon!
