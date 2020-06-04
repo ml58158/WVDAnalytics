@@ -1,4 +1,4 @@
-# Windows Virtual Desktop Insights and Analytics Workbook
+# Windows Virtual Desktop Insights and Analytics Workbook (Pre-Spring Update)
 
 The purpose of this Azure Workbook is to provide an overview to your WVD Environment. 
 
@@ -20,3 +20,11 @@ Click on the Deploy to Azure to install the workbook on your Log Analytics Works
 ## Screenshots
 
 Coming Soon!
+
+## Special Requests
+
+Feel free to contact me for any special requests .
+
+## Updates
+
+This workbook will be updated as I write new queries and visualizations.
