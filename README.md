@@ -1,6 +1,6 @@
 # Windows Virtual Desktop Insights and Analytics Workbook
  
- Deployment Methods:
+ Deployment Methods: <br> <br>
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fml58158%2FWVD-BootCamp-Analytics%2Fmaster%2FDeploy.json)
 
 
