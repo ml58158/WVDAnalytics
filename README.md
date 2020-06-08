@@ -11,7 +11,12 @@ To use it you need:
 ## Install
 Click on the Deploy to Azure to install the workbook on your Log Analytics Workspace.
 <br> <br>
+
+## Fall Release
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)]((https://aka.ms/deploytoazurebutton)]https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fml58158%2FWVDAnalytics%2Fmaster%2Fazuredeploy.json)
+
+## Spring Update
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)]((https://aka.ms/deploytoazurebutton)]https%3A%2F%2Fraw.githubusercontent.com%2Fml58158%2FWVDAnalytics%2Fmaster%2Fspringdeploy.json)
 
 
 ## Screenshots
