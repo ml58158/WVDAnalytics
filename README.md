@@ -16,9 +16,7 @@ Click on the Deploy to Azure to install the workbook on your Log Analytics Works
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)]((https://aka.ms/deploytoazurebutton)]https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fml58158%2FWVDAnalytics%2Fmaster%2Fazuredeploy.json)
 
 ## Spring Update
-<a href=https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fml58158%2FWVDAnalytics%2Fmaster%2Fspringdeploy.json" target="_blank">
-  <img src="https://aka.ms/deploytoazurebutton"/>
-</a>
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fml58158%2FWVDAnalytics%2Fmaster%2Fspringdeploy.json)
 
 ## Screenshots
 
