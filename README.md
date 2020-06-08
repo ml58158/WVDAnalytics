@@ -3,9 +3,9 @@
 The purpose of this Azure Workbook is to provide an overview to your WVD Environment. 
 
 To use it you need:
-- Windows Virtual Desktop (Pre-Spring Update)
-- Log Analytics workspace
-- Sepago Monitoring Agent
+- Windows Virtual Desktop
+- Azure Log Analytics workspace
+- <a href="http://loganalytics.sepago.com/download.html" Sepago Monitoring Agent></a>
 
 
 ## Install
