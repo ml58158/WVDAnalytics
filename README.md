@@ -28,9 +28,13 @@ Feel free to contact me for any special requests .
 
 ## Updates
 
-This workbook will be updated as I write new queries and visualizations.
+6/8/20 - Added Spring Update Workbook. 
 
 
-## Spring Update Workbook
+## Notes
 
-I will be uploading my Spring Update workbook later this week.
+This workbook will updated regularly with new features.
+
+## In-Development
+* Event Log Intergration
+* More Queries from Spring API
